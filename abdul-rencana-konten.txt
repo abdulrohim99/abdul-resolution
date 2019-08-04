@@ -2,4 +2,7 @@
 -membuat halaman tentang web design
 -membuat halaman tentang graphic design
 -membuat blogspot
+ ~tentang pemogramnan
 -membuat web aplikasi untuk Sekolah
+ ~hadiah untuk sekolah SMA
+ ~aplikasi sistem informasi sekolah

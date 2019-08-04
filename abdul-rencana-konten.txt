@@ -5,3 +5,4 @@
  ~tentang pemogramnan
 -membuat web aplikasi untuk Sekolah
  ~hadiah untuk sekolah SMA
+ ~aplikasi sistem informasi sekolah

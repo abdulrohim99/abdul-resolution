@@ -1,5 +1,5 @@
 #rencana konten Abdul
 -membuat halaman tentang web design
 -membuat halaman tentang graphic design
--membuat blogspot
 -membuat web aplikasi untuk Sekolah
+ ~membuat sistem informasi siswa dan guru
